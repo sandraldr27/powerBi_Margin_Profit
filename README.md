@@ -1,8 +1,9 @@
 <h2>Power BI Margin & Utilities Report</h2>
 
 <ul>
-<li>Final dashboard in Power BI, for calculating margin and utilities in a fictitious company (Appol). </li>
-<li>The data collected here is simulated. Module 1 Introduction to Power BI (IBM Certification).</li>
+  <li>Final dashboard in Power BI, for calculating margin and utilities in a fictitious company (Appol). </li>
+  <li>The data collected here is simulated.</li> 
+  <li>Module 1 Introduction to Power BI (IBM Certification).</li>
 </ul>
 
 <h2>Scheme</h2>
