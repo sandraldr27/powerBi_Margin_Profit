@@ -1,12 +1,10 @@
-<h2>Power BI Margin & Utilities Report</h2>
+<h1>Power BI Margin & Utilities Report</h1>
 
-<ul>
-  <li>Final dashboard in Power BI, for calculating margin and utilities in a fictitious company (Appol). </li>
-  <li>The data collected here is simulated.</li> 
-  <li>Module 1 Introduction to Power BI (IBM Certification).</li>
-</ul>
-
-<h2>Scheme</h2>
+<p>Final dashboard in Power BI, for calculating margin and utilities in a fictitious company (Appol).</p>
+<p>The data collected here is simulated.</p>
+<p>Module 1 Introduction to Power BI (IBM Certification).</p>
+ 
+ <h2>Scheme</h2>
 <ul>
   <li>Connection and data update</li>
   <li>Management of the query editor</li>
