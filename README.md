@@ -17,7 +17,7 @@
   <li>Online reporting and publishing</li>
 </ul>
 
-<h2>Dashboard Printing</h2>
+<h2>Table & Model & Dashboard Printing</h2>
 
 ![1](https://github.com/sandraldr27/powerBi_Margin_Profit/assets/116546588/947a9e2e-f494-4f86-92b2-9cee5b88d9d4)
 <br>
