@@ -19,6 +19,10 @@
 
 <h2>Dashboard Printing</h2>
 
+![1](https://github.com/sandraldr27/powerBi_Margin_Profit/assets/116546588/947a9e2e-f494-4f86-92b2-9cee5b88d9d4)
+<br>
+![2](https://github.com/sandraldr27/powerBi_Margin_Profit/assets/116546588/445f885d-5145-47ea-a398-7e87d660cc5b)
+<br>
 ![140524 Reporte Appol Sandra León Del Risco](https://github.com/sandraldr27/powerBi_Margin_Profit/assets/116546588/c40b96d8-3180-4eb1-81bf-a8f40bef825a)
 
 
